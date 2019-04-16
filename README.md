@@ -24,9 +24,9 @@ _For the graduating classes of April/May/Whenever 2019_
     - [Startup](#startup)
   - [What to look for](#what-to-look-for-in-a-company)
   - [How to prepare for interviews](#how-to-prepare-for-interviews)
-- [Resources](#resources-1)
-  - [General](#general-1)
-  - [Interviewing](#interviewing)
+    - [Behavioral](#behavioral)
+    - [Technical](#technical)
+- [General resources](#general-resources)
 
 ## Developing yourself
 
@@ -302,11 +302,14 @@ Stay fresh. Learn about industry standards and practices. Explore developing pat
 
 ### How to prepare for interviews
 
-Try to predict what questions you'll be asked, and try to prepare your answers. Here are general some questions you should try to prepare an answer for:
+Try to predict what questions you'll be asked, and try to prepare your answers.
+
+#### Behavioral
+
+Here are general behavioral / informational questions you should try to prepare a story for:
 
 - Why do you want to work for us?
 - Why do you want to leave your current company?
-- Have you used our product? What do you know about our product?
 - What is your biggest achievement?
 - What was your biggest programming challenge?
 - Where do you see yourself in 5 years?
@@ -319,25 +322,9 @@ Try to predict what questions you'll be asked, and try to prepare your answers. 
 - Describe your favorite project that you've ever worked on.
 - Describe a time when you took initiative to go above and beyond your base duty.
 
-## Resources
+#### Technical
 
-### General
-
-- [Google](https://google.com/) (It's a great joke, but I'm also 100% serious. It's the number one resource on the list.)
-- [GitHub](https://github.com/)
-- [Stack Overflow](https://stackoverflow.com/)
-- [Awesome Lists](https://github.com/sindresorhus/awesome)
-  - [GitHub topic](https://github.com/topics/awesome-list)
-- Slack (Find communities)
-- [W3Schools](https://www.w3schools.com/)
-- [CodePen](https://codepen.io/)
-- [RegExr](https://regexr.com/)
-  - [RegEx101](https://regex101.com/)
-- [Google Dev Web Fundamentals](https://developers.google.com/web/fundamentals/)
-- [Google Tools for Web Developers](https://developers.google.com/web/tools/)
-- [Chrome Dev updates](https://developers.google.com/web/updates/)
-
-### Interviewing
+It's nearly impossible to outline the vast variety of technical questions you might encounter during an interview, because each interview varies per company. Here is a list of interview preparation resources instead:
 
 - [List of websites for interview preparation](https://github.com/sdmg15/Best-websites-a-programmer-should-visit#interview-preparation)
 - [InterviewThis](https://github.com/Twipped/InterviewThis) (list of developer questions to ask prospective employers)
@@ -345,8 +332,20 @@ Try to predict what questions you'll be asked, and try to prepare your answers. 
 - [InterviewBit practice](https://www.interviewbit.com/practice/)
   - [Solutions to those practice problems](https://github.com/karan/Projects-Solutions)
 - [LeetCode problem set: algorithms](https://leetcode.com/problemset/algorithms/)
-- [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards) (list of companies that discuss real world problems in interviews instead of asking you to solve CS trivia, technical puzzles, riddles, algorithms, or brainteasers)
-  - [They Whiteboarded Me](http://they.whiteboarded.me/)
 - [Notes from a Dozen Software Interviews](http://kelukelu.me/interview/)
 - [CS interview study sheet](https://github.com/kimberli/interviews)
 - [Front-end Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+
+And finally, for those of you who seek a job interview that doesn't involve using a whiteboard to solve CS trivia, technical puzzles, riddles, algorithms, or brainteasers, I give you a beautiful resource of a compiled list of companies that focus on discussing real world problems in interviews instead: [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards) (and its converse: [They Whiteboarded Me](http://they.whiteboarded.me/))
+
+## General resources
+
+- [Google](https://google.com/) (It's a great joke, but I'm also 100% serious. It's the number one resource on the list.)
+- [GitHub](https://github.com/)
+- [Stack Overflow](https://stackoverflow.com/)
+- [Awesome Lists](https://github.com/sindresorhus/awesome)
+- Slack (Find communities)
+- [W3Schools](https://www.w3schools.com/)
+- [CodePen](https://codepen.io/)
+- [Google Dev Web Fundamentals](https://developers.google.com/web/fundamentals/)
+- [Google Tools for Web Developers](https://developers.google.com/web/tools/)
