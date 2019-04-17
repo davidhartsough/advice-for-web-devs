@@ -264,11 +264,14 @@ Stay fresh. Learn about industry standards and practices. Explore developing pat
 
 ### What to look for (in a company)
 
+Most of these things you can only learn about by asking people who work there (interviewing the interviewer), reading about the organization online, or shadowing / experiencing the company for yourself. The goal is to have the best understanding possible of what a typical "day in the life" would be at the company before you accept any position there.
+
+(Note: This unorganized list is just a starting point to provoke you to think about what you truly want your day-to-day job to be like. I highly encourage you to make your own list that fits your personal preferences — maybe even break it down into a list of _must-have's_ and a list of _nice-to-have's_.)
+
 - "Work–life balance"
 - Training process (new hire onboard process)
 - Responsibilities and expectations (diversity, variety, focus, definition, clarity)
 - Collaboration, team work, and individual work
-- Typical "day in the life"
 - Definition and clarity of projects
 - Reactivity to the unpredictable
 - Sense of urgency
