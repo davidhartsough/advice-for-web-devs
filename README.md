@@ -351,5 +351,7 @@ And finally, for those of you who seek a job interview that doesn't involve usin
 - Slack (Find communities)
 - [W3Schools](https://www.w3schools.com/)
 - [CodePen](https://codepen.io/)
+  - [JS Bin](https://jsbin.com/)
+  - [JSFiddle](https://jsfiddle.net/)
 - [Google Dev Web Fundamentals](https://developers.google.com/web/fundamentals/)
 - [Google Tools for Web Developers](https://developers.google.com/web/tools/)
