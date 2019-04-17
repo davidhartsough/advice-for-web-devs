@@ -254,6 +254,8 @@ Stay fresh. Learn about industry standards and practices. Explore developing pat
 - [GitHub](https://jobs.github.com/)
 - [Stack Overflow](https://stackoverflow.com/jobs)
 - [More sites in a list](https://github.com/sdmg15/Best-websites-a-programmer-should-visit#jobs)
+- Slack communities
+  - [Idaho Tech](http://idahotech.community/)
 
 #### Startup
 
