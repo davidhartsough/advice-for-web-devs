@@ -290,7 +290,7 @@ Stay fresh. Learn about industry standards and practices. Explore developing pat
 - Craftsmanship, expertise, and mastery
 - Cross-team interaction / collaboration
 - Working environment and "office" setup (if applicable)
-- Tech stack: who chooses it, how is it chosen, and how/when it changes
+- Tech stack: who chooses it, how it's chosen, and how/when it changes
 - Development and deployment workflow
 - Testing and quality assurance
 - Coding standards and styles
@@ -298,7 +298,8 @@ Stay fresh. Learn about industry standards and practices. Explore developing pat
 - Size and scope of "backlog" and bugs
 - Code review process
 - How mistakes are handled
-- feel a deep, meaningful connection and engagement with my work, with the company, with the goals of the organization, or with the leadership in the company
+- Contributions to open source
+- Contributions to the dev community outside the company
 
 ### How to prepare for interviews
 
@@ -310,17 +311,18 @@ Here are general behavioral / informational questions you should try to prepare 
 
 - Why do you want to work for us?
 - Why do you want to leave your current company?
-- What is your biggest achievement?
-- What was your biggest programming challenge?
+- Describe your biggest achievement and how you achieved it.
+- Describe your biggest programming challenge and you solved it.
+- What is a recent technical challenge you experienced and how did you solve it?
 - Where do you see yourself in 5 years?
 - What excites or interests you about coding?
-- What is a recent technical challenge you experienced and how did you solve it?
-- Describe a stressful situation at work and how you handled it.
-- How have you handled a difficult situation with a co-worker?
-- How have you handled a mistake you made?
+- Describe a stressful situation you experienced at work and how you handled it.
+- Describe a time when you had to resolve a conflict or difficult situation with a co-worker.
+- Describe a time when you made a mistake in your work. How did you handle it?
+- Describe a time when you were frustrated at work and how you made the situation better.
 - Describe a recent accomplishment that you're proud of.
 - Describe your favorite project that you've ever worked on.
-- Describe a time when you took initiative to go above and beyond your base duty.
+- Describe a time when you took initiative to go above and beyond in your work.
 
 #### Technical
 
