@@ -1,6 +1,18 @@
-# A (Coding Dojo) Graduation Speech?
+# Advice for new web devs
+
+> Please see the sister project: [Web dev tech trends](https://github.com/davidhartsough/web-dev-tech-trends)
+
+**Context/Preface**
+
+Originally I wrote this as a "graduation speech" to the graduating students of a coding bootcamp, [Coding Dojo](https://www.codingdojo.com/boise), in April of 2019. I was asked to give a "tech talk" to the soon-to-be graduates, and then I went all out. I opened with:
 
 _For the graduating classes of April/May/Whenever 2019_
+
+However, this is now broadly applicable to a more general audience, and hopefully I'll keep this up to date into 2020 :)
+
+If you'd like to view this in a more "reader-friendly" format, check out [my website's version of this](https://davidhartsough.com/writings/advice-for-new-devs/).
+
+---
 
 - [Developing yourself](#developing-yourself)
   - [Setting up your dev environment](#setting-up-your-dev-environment)
